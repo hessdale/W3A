@@ -16,7 +16,7 @@ body {
 article .white_txt {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-article>div {
+article>span {
     font-style: oblique;
 }
 #blue_txt+h2 {
